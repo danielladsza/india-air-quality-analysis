@@ -13,4 +13,5 @@ Average PM2.5 of 49.3 is over 3x the WHO safe limit of 15
 December and January are the most polluted months; July and August (monsoon) are the cleanest
 Evening hours (6 PM) show peak pollution coinciding with rush hour; noon is the cleanest time of day
 
-
+Dashboard Preview
+![Dashboard](dashboard.png)
